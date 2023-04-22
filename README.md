@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shinobi</h1>
-<h3 align="center">Python Enjoyer</h3>
+<h3 align="center">Small Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
