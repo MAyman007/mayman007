@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shinobi</h1>
 <h3 align="center">Small Developer</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shinobi7k&label=Profile%20views&color=0e75b6&style=flat" alt="Shinobi7k" alt="Shinobi7k" /> <img src="https://img.shields.io/github/followers/Shinobi7k?label=Followers" alt="Shinobi7k" /> </p> <br> <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shinobi7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinobi7k" height="30" width="40" /></a>
