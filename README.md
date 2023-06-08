@@ -39,6 +39,6 @@
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://readme-stats-thegoldenpro.vercel.app/api?username=Shinobi7k&show_icons=true&theme=gruvbox" alt="Shinobi7k" /></p>
+<p><img align="center" src="https://readme-stats-thegoldenpro.vercel.app/api?username=Shinobi7k&show_icons=true&theme=gruvbox" alt="Shinobi7k" /></p>
 
 <p><img src="https://metrics.lecoq.io/Shinobi7k" alt="Shinobi7k's GitHub metrics" /></p>
