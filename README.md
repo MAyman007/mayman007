@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shinobi7k&label=Profile%20views&color=0e75b6&style=flat" alt="Shinobi7k" alt="Shinobi7k" /> 
 <img src="https://img.shields.io/github/followers/Shinobi7k?label=Followers" alt="Shinobi7k" /> </p> <br> 
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 100px/>
 
 <div align="center">
  
