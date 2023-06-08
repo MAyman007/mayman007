@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed
+<h1 align="center">Hi, I'm Mohamed
 <h3 align="center">Small Developer</h3>
 
 
@@ -14,13 +14,12 @@
 <div align="left">
  
  - 🐍 *Python Lover.*
- - 🎮 *Discord bot developer.*
-
  - 💛 *Love for learning new things.*
  - ⭐ *Passionate wannabe software developer.*
+</div>
 
+<div align="right">
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
-
 </div>
 
 <br>
