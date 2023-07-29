@@ -16,6 +16,8 @@
  
  - 🐍 *Python Lover.*
 
+ - 📱 *Flutter Developer.*
+
  - 💛 *Love for learning new things.*
 
  - ⭐ *Passionate wannabe software developer.*
