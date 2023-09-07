@@ -14,9 +14,9 @@
 
 <div align="left">
  
- - 🐍 *Python Lover.*
-
  - 📱 *Flutter Developer.*
+
+ - 🐍 *Python Enjoyer.*
 
  - 💛 *Love for learning new things.*
 
