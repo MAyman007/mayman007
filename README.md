@@ -29,7 +29,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/shinobi7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinobi7k" height="30" width="40" /></a>
+<a href="https://twitter.com/moaymandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinobi7k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-ayman-988a65215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ayman-988a65215" height="30" width="40" /></a>
 <a href="https://fb.com/medo.ayman.7967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="medo.ayman.7967" height="30" width="40" /></a>
 
