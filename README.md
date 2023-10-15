@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed
 <h3 align="center">Small Developer</h3>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MoAymanDev&label=Profile%20views&color=0e75b6&style=flat" alt="MoAymanDev" alt="MoAymanDev" />
-  (since 15/10/23)
-
-<br>
-
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 100px/>
 
 <div align="center">
