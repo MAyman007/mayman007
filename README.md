@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed
-  <div>
 <h3 align="center">Small Developer</h3>
-<h3 align="center">Check out my <a href="https://mohamedayman.pages.dev/">website</a></h3>
-  </div>
+<h2 align="center">Check out my <a href="https://mohamedayman.pages.dev/">website</a></h2>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 100px/>
 
