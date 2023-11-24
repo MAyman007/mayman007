@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohamed
 <h3 align="center">Check out my <a href="https://mohamedayman.pages.dev/" target="_blank"  rel="noopener noreferrer">website</a></h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 100px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" height = 150px/>
 
 <div align="center">
 
@@ -43,3 +43,6 @@
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/MoAymanDev) 
+
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
