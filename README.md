@@ -43,7 +43,7 @@
 
   ## 💰 You can help me by Donating
 <a href="https://ko-fi.com/mayman007">
-  <img align="left" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png" width = 250px/>
+  <img align="left" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png" width = 200px/>
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
