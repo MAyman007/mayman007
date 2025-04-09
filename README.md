@@ -30,20 +30,3 @@
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mayman007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mayman007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayman007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mayman007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-  ## 💰 You can help me by Donating
-<a href="https://ko-fi.com/mayman007">
-  <img align="left" src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png" width = 200px/>
-</a>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
