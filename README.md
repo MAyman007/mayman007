@@ -24,7 +24,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/medo.ayman.7967) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ayman-7k)
+[![Email](https://img.shields.io/badge/Email-%231877F2.svg?logo=gmail&logoColor=white)](MohamedAyman@mohamedayman.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ayman-7k)
 <a href="https://t.me/mayman007tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="drawing" width="85" style="border-radius:5%"/></a>
 <a href="https://discordapp.com/users/543172445155098624"><img src="https://dcbadge.vercel.app/api/shield/543172445155098624" alt="drawing" width="140" style="border-radius:5%"/></a>
 
