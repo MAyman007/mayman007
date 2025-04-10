@@ -25,9 +25,9 @@
 
 ## 🌐 Socials:
 <a href="mailto:MohamedAyman@mohamedayman.me"><img src="https://img.shields.io/badge/Email-%231877F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="70" style="border-radius:5%"/></a>
-<a href="https://linkedin.com/in/mohamed-ayman-7k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width="70" style="border-radius:5%"/></a>
-<a href="https://t.me/mayman007tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="85" style="border-radius:5%"/></a>
-<br> <a href="https://discordapp.com/users/543172445155098624"><img src="https://dcbadge.vercel.app/api/shield/543172445155098624" alt="Discord" width="140" style="border-radius:5%"/></a>
+<a href="https://linkedin.com/in/mohamed-ayman-7k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width="75" style="border-radius:5%"/></a>
+<a href="https://t.me/mayman007tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="90" style="border-radius:5%"/></a>
+<br> <a href="https://discordapp.com/users/543172445155098624"><img src="https://dcbadge.vercel.app/api/shield/543172445155098624" alt="Discord" width="150" style="border-radius:5%"/></a>
 
 # 💻 Tech Stack:
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/) [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://firebase.google.com/) [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![FastAPI](https://img.shields.io/badge/fastapi-ffdd54?style=for-the-badge&logo=fastapi&logoColor=009688)](https://fastapi.tiangolo.com/)
