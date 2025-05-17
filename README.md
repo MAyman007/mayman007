@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Mohamed
-<h3 align="center">Check out my <a href="https://mohamedayman.me/" target="_blank"  rel="noopener noreferrer">website</a></h3>
+<h1 align="center">Hi, I'm Mohamed</h1>
+<h3 align="center">
+  Check out my <a href="https://mohamedayman.me/" target="_blank"  rel="noopener noreferrer">website</a>
+</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="380">
 
@@ -9,7 +11,7 @@
 </div>
 
 <div align="left">
- 
+
  - 📱 *Flutter Developer.*
 
  - 🐍 *Python Enjoyer.*
@@ -20,8 +22,6 @@
 </div>
 
 <br>
-
-
 
 ## 🌐 Socials:
 <a href="mailto:MohamedAyman@mohamedayman.me"><img src="https://img.shields.io/badge/Email-%231877F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="70" style="border-radius:5%"/></a>
