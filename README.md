@@ -24,10 +24,10 @@
 <br>
 
 ## 🌐 Socials:
-<a href="mailto:MohamedAyman@mohamedayman.me"><img src="https://img.shields.io/badge/Email-%231877F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="70" style="border-radius:5%"/></a>
-<a href="https://linkedin.com/in/mohamed-ayman-7k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width="75" style="border-radius:5%"/></a>
-<a href="https://t.me/mayman007tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="93" style="border-radius:5%"/></a>
-<br> <a href="https://discordapp.com/users/543172445155098624"><img src="https://dcbadge.vercel.app/api/shield/543172445155098624" alt="Discord" width="150" style="border-radius:5%"/></a>
+<a href="mailto:MohamedAyman@mohamedayman.me"><img src="https://img.shields.io/badge/Email-%231877F2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="80" style="border-radius:5%"/></a>
+<a href="https://linkedin.com/in/mohamed-ayman-7k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width="86" style="border-radius:5%"/></a>
+<a href="https://t.me/mayman007tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="107" style="border-radius:5%"/></a>
+<br> <a href="https://discordapp.com/users/543172445155098624"><img src="https://dcbadge.vercel.app/api/shield/543172445155098624" alt="Discord" width="175" style="border-radius:5%"/></a>
 
 ## 💻 Tech Stack:
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
