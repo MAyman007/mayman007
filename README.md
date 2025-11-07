@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohamed</h1>
 <h3 align="center">
-  Check out my <a href="https://mohamedayman.me/" target="_blank"  rel="noopener noreferrer">website</a>
+  Check out my <a href="https://mohamedayman.net" target="_blank"  rel="noopener noreferrer">website</a>
 </h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="380">
